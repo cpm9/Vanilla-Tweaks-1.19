@@ -1,0 +1,9 @@
+{
+  "builtinServers": [
+    {
+      "name": "Vanilla Tweaks Community Server",
+      "address": "vanillatweaks.xyz",
+	  "alwaysInclude": true
+    }
+  ]
+}
