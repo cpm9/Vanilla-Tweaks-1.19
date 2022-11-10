@@ -1,8 +1,8 @@
 {
   "id": "1.19.2",
   "inheritsFrom": "1.19.2",
-  "releaseTime": "2022-09-15T05:12:19+0000",
-  "time": "2022-09-15T05:12:19+0000",
+  "releaseTime": "2022-11-08T16:54:14+0000",
+  "time": "2022-11-08T16:54:14+0000",
   "type": "release",
   "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type}",
   "libraries": [
@@ -47,7 +47,7 @@
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "net.fabricmc:fabric-loader:0.14.9",
+      "name": "net.fabricmc:fabric-loader:0.14.10",
       "url": "https://maven.fabricmc.net/"
     }
   ],
